@@ -12,9 +12,10 @@ h1 {
 }
 
 h2 {
-    padding: 4px 32px;
+    width: 30%;
     border: 1px solid black;
     float: right;
+    text-align: center;
     
 }
 
